@@ -8,10 +8,10 @@ $(() => app = new App());
 class App {
 
     /** The default coordinates of the center of the map. */
-    static get defaultCoords() { return [9.8276,46.1946] }
+    static get defaultCoords() { return [9.4124,45.6076] }
 
     /** The default zoom of the map. */
-    static get defaultZoom() { return 10 }
+    static get defaultZoom() { return 8.5 }
 
 
     /**
